@@ -1,1 +1,3 @@
-# saninkorjenic.github.io
+# Seminarski rad web arhitekture
+Link stranice https://saninkorjenic.github.io
+_
